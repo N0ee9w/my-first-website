@@ -1,0 +1,185 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  font-family: "Montserrat", sans-serif;
+  color: #40514E;
+  margin: 0;
+}
+
+.sacramento-regular{
+  font-family: "Sacramento", cursive;
+  font-size: clamp(2.5rem, 8vw, 5rem);
+  color: #66BFBF;
+}
+.top-container{
+  background-color: #EAF6F6;
+  position: relative;
+  text-align: center;
+}
+
+.h2{
+    color: #66BFBF;
+    font-size: 40px;
+}
+.pro{
+    text-decoration: underline;
+}
+
+
+.cloud1{
+  display: inline-block;
+  width: 80px;
+  position: absolute;
+  top: 30px;
+  right: 900px;
+}
+.cloud2{
+  display: inline-block;
+  width: 80px;
+  position: absolute;
+  left: 999px;
+  bottom: 154px;
+} 
+.mountain{
+  width: 300px;
+  margin: 30px auto;
+  display: block;
+}
+.about-me{
+  text-align: center;
+  padding: 12px;
+  
+}
+.h22{
+    color: #66BFBF;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.myimage {
+  display: block;
+  margin: 50px auto;
+  width: 150px;
+  border-radius: 50%;
+}
+.text-me{
+  margin: 0 auto;
+}
+.text-me p{
+  margin: auto;
+  width: 17%;
+}
+hr{ 
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 40px auto;
+}
+.skills-section{
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.design {
+  color: #66BFBF;
+  margin-bottom: 10px;
+  text-align: left;
+  font-size: clamp(1.2rem, 2vw, 1.6rem);
+}
+.challenge{
+  color: #66BFBF;
+  margin-top: 25px;
+  margin-bottom: 10px;
+  text-align: left;
+  font-size: clamp(1.2rem, 2vw, 1.6rem);
+}
+
+
+.Skills{
+  color: #66BFBF;
+  text-align: center;
+  margin-bottom: 60px;
+  font-size: 2rem;
+}
+.skill-text{
+  text-align: center;
+  width: 20%;
+  line-height: 1.6;
+  margin: auto;
+}
+.skillp,
+.pcha {
+  line-height: 1.6;
+  font-size: 0.9rem;
+  text-align: justify;
+}
+.computer{
+  width: 100px;
+  border-radius: 50%;
+  float: left ;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+.chill{
+  width: 100px;
+  float: right;
+  margin-left: 30px;  
+  margin-top: 20px;
+}
+.button{
+    background-color: #11999E;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 25px;
+    border-radius: 6px;
+    background-color: #11999E;
+    color: #EAF6F6;
+    border: none;
+    cursor: pointer;
+}
+.getin{
+    color: #66BFBF;
+    text-align: center;
+}
+.if{
+    color: #11999E;
+    text-align: center;
+    margin: 20px;
+}
+.love{
+  text-align: center;
+  width: 16%;
+  margin: auto;
+}
+footer {
+  background-color: #66BFBF;
+  padding: 30px 10px;
+  color: #EAF6F6;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-bottom: 10px;
+  margin-top: 30px;
+}
+
+.footer-links a {
+  color: #11999E;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  text-decoration: underline;
+}
+.copy {
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+

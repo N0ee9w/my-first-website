@@ -1,0 +1,151 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.sacramento-regular {
+  font-family: "Sacramento", cursive;
+  font-weight: 400;
+  font-style: normal;
+  color: #66BFBF;
+  text-align: center;
+  font-size: 100px;
+}
+.sec1{
+    background-color: #EAF6F6;
+}
+
+body{
+    margin: 0px;
+}
+.clouds{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cloud1{
+  width: 180px;
+  position: relative;
+  top: 350px;
+  padding-left: 20px;
+}
+.cloud2{
+  width: 180px;
+  position: relative;
+  top: 20px;
+  padding-right: 90px;
+} 
+.mountain{
+  width: 300px;
+  margin: 30px auto;
+  display: block;
+}
+.h2{
+    color: #66BFBF;
+    text-align: center;
+    font-size: 40px;
+}
+.pro{
+    text-decoration: underline;
+}
+.myimage {
+  display: block;
+  margin: 50px auto;
+  width: 150px;
+  border-radius: 50%;
+}
+.ps1{
+    text-align: center;
+    margin-right: 20px;
+}
+.greeting{
+    color: #66BFBF;
+    text-align: center;
+    font-size: 2rem;
+}
+.presentation{
+    text-align: center;
+    margin-right: 20px;
+}
+
+.design, .wings{
+    color: #66BFBF;
+    text-align: left;
+    font-size: 1rem;
+    margin: 1rem auto;
+    max-width: 600px
+}
+.design-par, .wings-par{
+    text-align: left;
+    font-size: 1rem;
+    margin: 1rem auto;
+    max-width: 600px
+}
+
+.hr1{
+    border: none;
+    border-top: 2px dashed #EAF6F6;
+}
+
+.Skills{
+  color: #66BFBF;
+  text-align: center;
+  margin-bottom: 60px;
+  font-size: 2rem;
+}
+
+
+.computer{
+  display: block;    
+  width: 100px;
+  border-radius: 50%;
+  margin: 0 auto;
+}
+
+.chill{
+    display: block;
+    margin: 0 auto;
+    width: 100px;
+}
+
+.button{
+    background-color: #11999E;
+    display: block;
+    margin: 20px auto;
+    padding: 10px 25px;
+    border-radius: 6px;
+    background-color: #11999E;
+    color: #EAF6F6;
+    border: none;
+    cursor: pointer;
+}
+
+.getin{
+    color: #66BFBF;
+    text-align: center;
+}
+
+.if{
+    color: #11999E;
+    text-align: center;
+    margin: 20px;
+}
+.love{
+    text-align: center;
+}
+.footer{
+    background-color: #66BFBF;
+    color: #11999E;
+    padding: 30px 20px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.copy{
+  width: 100%;
+  text-align: center;
+  color: #EAF6F6;
+  margin-top: 20px;
+  font-size: 14px;
+}
